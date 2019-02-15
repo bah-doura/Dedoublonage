@@ -150,6 +150,6 @@ def printNomberOccurenceFile(mapData):
         
         
 #Test 
-vocabulary = readVocabulary("vocabulaire.txt")
+vocabulary = readVocabulary("C:\\Users\\BAH\Work Space\\M2_MIAGE\\PRM2\\TP2\\vocabulaire.txt")
 mapVecotr = createMapOccurence(path, vocabulary)
 printNomberOccurenceFile(mapVecotr)
