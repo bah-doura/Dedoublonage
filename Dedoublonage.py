@@ -20,7 +20,7 @@ nltk.download('punkt')
 from nltk.tokenize import word_tokenize
 import numpy as np
 
-path = 'C:\\Users\\BAH\Work Space\\M2_MIAGE\\PRM2\\TP2\\test_folder'
+path = 'C:\\Users\\BAH\Work Space\\M2_MIAGE\\PRM2\\TP2\\Buffer-in'
 
 
 #Lecture et conversion d'un fichier PDF en .txt
